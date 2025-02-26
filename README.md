@@ -1,0 +1,1 @@
+This project uses hand gestures for mouse and media control via OpenCV, MediaPipe, and PyAutoGUI. The right hand controls the mouse, while the left hand manages navigation and volume. MediaPipe Hands detects gestures, enabling an intuitive, touch-free interaction.
